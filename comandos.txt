@@ -1,0 +1,5 @@
+- git status (verifica as alterações nos arquivos)
+- git add (nome do arquivo / nome da pasta / . (tudo))
+- git commit -m "descrição do que foi adicionado"
+- git push origin main (envia as alterações)
+- git pull origin main (baixa as alterações)
