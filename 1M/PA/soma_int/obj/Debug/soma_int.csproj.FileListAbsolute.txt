@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\bin\Debug\soma_int.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\bin\Debug\soma_int.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\bin\Debug\soma_int.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\obj\Debug\soma_int.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\obj\Debug\soma_int.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\obj\Debug\soma_int.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\obj\Debug\soma_int.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_int\obj\Debug\soma_int.pdb

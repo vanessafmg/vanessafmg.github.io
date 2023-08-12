@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\obj\Debug\soma_double.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\obj\Debug\soma_double.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\obj\Debug\soma_double.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\bin\Debug\soma_double.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\bin\Debug\soma_double.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\bin\Debug\soma_double.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\obj\Debug\soma_double.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\soma_double\obj\Debug\soma_double.pdb

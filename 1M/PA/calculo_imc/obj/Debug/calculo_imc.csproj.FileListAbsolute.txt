@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\obj\Debug\calculo_imc.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\obj\Debug\calculo_imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_imc\obj\Debug\calculo_imc.pdb

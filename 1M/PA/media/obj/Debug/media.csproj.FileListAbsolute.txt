@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\media\bin\Debug\media.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\media\bin\Debug\media.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\media\bin\Debug\media.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\media\obj\Debug\media.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media\obj\Debug\media.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media\obj\Debug\media.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\media\obj\Debug\media.pdb

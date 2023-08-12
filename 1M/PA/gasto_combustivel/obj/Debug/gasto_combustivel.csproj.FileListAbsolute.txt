@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\bin\Debug\gasto_combustivel.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\bin\Debug\gasto_combustivel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\bin\Debug\gasto_combustivel.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\obj\Debug\gasto_combustivel.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\obj\Debug\gasto_combustivel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\obj\Debug\gasto_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\obj\Debug\gasto_combustivel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\gasto_combustivel\obj\Debug\gasto_combustivel.pdb

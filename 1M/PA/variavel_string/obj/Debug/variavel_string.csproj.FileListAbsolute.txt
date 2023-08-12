@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\bin\Debug\variavel_string.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\bin\Debug\variavel_string.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\bin\Debug\variavel_string.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\obj\Debug\variavel_string.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\obj\Debug\variavel_string.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\obj\Debug\variavel_string.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\obj\Debug\variavel_string.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\variavel_string\obj\Debug\variavel_string.pdb

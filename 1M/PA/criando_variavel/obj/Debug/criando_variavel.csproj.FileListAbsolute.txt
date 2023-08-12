@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\bin\Debug\criando_variavel.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\bin\Debug\criando_variavel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\bin\Debug\criando_variavel.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\obj\Debug\criando_variavel.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\obj\Debug\criando_variavel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\obj\Debug\criando_variavel.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\obj\Debug\criando_variavel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\criando_variavel\obj\Debug\criando_variavel.pdb

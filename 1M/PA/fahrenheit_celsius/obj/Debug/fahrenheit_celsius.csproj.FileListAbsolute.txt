@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\bin\Debug\fahrenheit_celsius.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\bin\Debug\fahrenheit_celsius.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\bin\Debug\fahrenheit_celsius.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\obj\Debug\fahrenheit_celsius.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\obj\Debug\fahrenheit_celsius.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\obj\Debug\fahrenheit_celsius.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\obj\Debug\fahrenheit_celsius.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\fahrenheit_celsius\obj\Debug\fahrenheit_celsius.pdb
