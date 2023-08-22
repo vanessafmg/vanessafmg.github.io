@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\bin\Debug\calculo_hospedagem.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\bin\Debug\calculo_hospedagem.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\bin\Debug\calculo_hospedagem.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\obj\Debug\calculo_hospedagem.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\obj\Debug\calculo_hospedagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\obj\Debug\calculo_hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\obj\Debug\calculo_hospedagem.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_hospedagem\obj\Debug\calculo_hospedagem.pdb
