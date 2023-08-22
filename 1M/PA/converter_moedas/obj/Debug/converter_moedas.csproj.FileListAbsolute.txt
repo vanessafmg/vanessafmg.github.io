@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\bin\Debug\converter_moedas.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\bin\Debug\converter_moedas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\bin\Debug\converter_moedas.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\obj\Debug\converter_moedas.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\obj\Debug\converter_moedas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\obj\Debug\converter_moedas.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\obj\Debug\converter_moedas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\converter_moedas\obj\Debug\converter_moedas.pdb
