@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\bin\Debug\calculo_lucro.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\bin\Debug\calculo_lucro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\bin\Debug\calculo_lucro.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\obj\Debug\calculo_lucro.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\obj\Debug\calculo_lucro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\obj\Debug\calculo_lucro.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\obj\Debug\calculo_lucro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\calculo_lucro\obj\Debug\calculo_lucro.pdb

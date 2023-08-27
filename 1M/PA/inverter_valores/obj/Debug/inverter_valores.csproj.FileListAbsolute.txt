@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\bin\Debug\inverter_valores.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\bin\Debug\inverter_valores.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\bin\Debug\inverter_valores.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\obj\Debug\inverter_valores.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\obj\Debug\inverter_valores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\obj\Debug\inverter_valores.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\obj\Debug\inverter_valores.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\inverter_valores\obj\Debug\inverter_valores.pdb

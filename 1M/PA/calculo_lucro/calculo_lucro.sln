@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculo_lucro", "calculo_lucro.csproj", "{7C8602D9-4A02-43A0-8693-9A3B55E99ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8602D9-4A02-43A0-8693-9A3B55E99ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8602D9-4A02-43A0-8693-9A3B55E99ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8602D9-4A02-43A0-8693-9A3B55E99ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8602D9-4A02-43A0-8693-9A3B55E99ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595811B5-43D1-4450-A8ED-EC9DBB3E44A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\bin\Debug\salario_liquido.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\bin\Debug\salario_liquido.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\bin\Debug\salario_liquido.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\obj\Debug\salario_liquido.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\obj\Debug\salario_liquido.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\obj\Debug\salario_liquido.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\obj\Debug\salario_liquido.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_liquido\obj\Debug\salario_liquido.pdb

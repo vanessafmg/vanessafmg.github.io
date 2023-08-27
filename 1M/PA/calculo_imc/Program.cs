@@ -20,7 +20,7 @@ namespace calculo_imc
 
             imc = peso / (altura * altura);
 
-            Console.WriteLine("O IMC é: " + imc);
+            Console.WriteLine("O IMC é: " + imc.ToString("F2"));
 
             Console.ReadKey();
 

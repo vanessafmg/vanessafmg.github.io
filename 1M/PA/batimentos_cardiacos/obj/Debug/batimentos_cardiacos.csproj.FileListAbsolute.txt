@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\bin\Debug\batimentos_cardiacos.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\bin\Debug\batimentos_cardiacos.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\bin\Debug\batimentos_cardiacos.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\obj\Debug\batimentos_cardiacos.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\obj\Debug\batimentos_cardiacos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\obj\Debug\batimentos_cardiacos.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\obj\Debug\batimentos_cardiacos.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\batimentos_cardiacos\obj\Debug\batimentos_cardiacos.pdb
