@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\bin\Debug\porcentagem_salario.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\bin\Debug\porcentagem_salario.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\bin\Debug\porcentagem_salario.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\obj\Debug\porcentagem_salario.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\obj\Debug\porcentagem_salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\obj\Debug\porcentagem_salario.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\obj\Debug\porcentagem_salario.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\porcentagem_salario\obj\Debug\porcentagem_salario.pdb

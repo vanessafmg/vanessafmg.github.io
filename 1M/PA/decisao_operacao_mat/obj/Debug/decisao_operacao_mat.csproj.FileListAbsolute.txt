@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\bin\Debug\decisao_operacao_mat.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\bin\Debug\decisao_operacao_mat.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\bin\Debug\decisao_operacao_mat.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\obj\Debug\decisao_operacao_mat.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\obj\Debug\decisao_operacao_mat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\obj\Debug\decisao_operacao_mat.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\obj\Debug\decisao_operacao_mat.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_operacao_mat\obj\Debug\decisao_operacao_mat.pdb

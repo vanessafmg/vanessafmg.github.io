@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\bin\Debug\decisao_combustivel.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\bin\Debug\decisao_combustivel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\bin\Debug\decisao_combustivel.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\obj\Debug\decisao_combustivel.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\obj\Debug\decisao_combustivel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\obj\Debug\decisao_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\obj\Debug\decisao_combustivel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\decisao_combustivel\obj\Debug\decisao_combustivel.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\bin\Debug\ident_genero.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\bin\Debug\ident_genero.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\bin\Debug\ident_genero.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\obj\Debug\ident_genero.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\obj\Debug\ident_genero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\obj\Debug\ident_genero.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\obj\Debug\ident_genero.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\ident_genero\obj\Debug\ident_genero.pdb

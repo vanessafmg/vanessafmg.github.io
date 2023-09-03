@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\bin\Debug\numero_maior.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\bin\Debug\numero_maior.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\bin\Debug\numero_maior.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\obj\Debug\numero_maior.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\obj\Debug\numero_maior.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\obj\Debug\numero_maior.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\obj\Debug\numero_maior.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\numero_maior\obj\Debug\numero_maior.pdb
