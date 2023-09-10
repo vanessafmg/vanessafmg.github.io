@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\bin\Debug\imc_class.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\bin\Debug\imc_class.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\bin\Debug\imc_class.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\obj\Debug\imc_class.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\obj\Debug\imc_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\obj\Debug\imc_class.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\obj\Debug\imc_class.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\imc_class\obj\Debug\imc_class.pdb

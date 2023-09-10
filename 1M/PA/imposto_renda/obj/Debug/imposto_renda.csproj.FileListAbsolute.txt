@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\bin\Debug\imposto_renda.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\bin\Debug\imposto_renda.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\bin\Debug\imposto_renda.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\obj\Debug\imposto_renda.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\obj\Debug\imposto_renda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\obj\Debug\imposto_renda.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\obj\Debug\imposto_renda.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\imposto_renda\obj\Debug\imposto_renda.pdb

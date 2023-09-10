@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\bin\Debug\pontuacao_candidato.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\bin\Debug\pontuacao_candidato.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\bin\Debug\pontuacao_candidato.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\obj\Debug\pontuacao_candidato.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\obj\Debug\pontuacao_candidato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\obj\Debug\pontuacao_candidato.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\obj\Debug\pontuacao_candidato.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\pontuacao_candidato\obj\Debug\pontuacao_candidato.pdb

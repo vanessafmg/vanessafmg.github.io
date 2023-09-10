@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\bin\Debug\salario_filhos_planosaude.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\bin\Debug\salario_filhos_planosaude.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\bin\Debug\salario_filhos_planosaude.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\obj\Debug\salario_filhos_planosaude.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\obj\Debug\salario_filhos_planosaude.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\obj\Debug\salario_filhos_planosaude.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\obj\Debug\salario_filhos_planosaude.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\salario_filhos_planosaude\obj\Debug\salario_filhos_planosaude.pdb

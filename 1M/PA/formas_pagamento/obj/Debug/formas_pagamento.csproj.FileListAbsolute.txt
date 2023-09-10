@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\bin\Debug\formas_pagamento.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\bin\Debug\formas_pagamento.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\bin\Debug\formas_pagamento.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\obj\Debug\formas_pagamento.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\obj\Debug\formas_pagamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\obj\Debug\formas_pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\obj\Debug\formas_pagamento.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\formas_pagamento\obj\Debug\formas_pagamento.pdb
