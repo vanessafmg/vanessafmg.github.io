@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\bin\Debug\switch_mat.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\bin\Debug\switch_mat.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\bin\Debug\switch_mat.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\obj\Debug\switch_mat.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\obj\Debug\switch_mat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\obj\Debug\switch_mat.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\obj\Debug\switch_mat.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_mat\obj\Debug\switch_mat.pdb

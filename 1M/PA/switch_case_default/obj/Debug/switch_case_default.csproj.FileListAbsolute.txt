@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\bin\Debug\switch_case_default.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\bin\Debug\switch_case_default.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\bin\Debug\switch_case_default.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\obj\Debug\switch_case_default.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\obj\Debug\switch_case_default.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\obj\Debug\switch_case_default.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\obj\Debug\switch_case_default.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_case_default\obj\Debug\switch_case_default.pdb

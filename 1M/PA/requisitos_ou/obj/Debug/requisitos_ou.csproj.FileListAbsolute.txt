@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\bin\Debug\requisitos_ou.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\bin\Debug\requisitos_ou.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\bin\Debug\requisitos_ou.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\obj\Debug\requisitos_ou.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\obj\Debug\requisitos_ou.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\obj\Debug\requisitos_ou.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\obj\Debug\requisitos_ou.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\requisitos_ou\obj\Debug\requisitos_ou.pdb

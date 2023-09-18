@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\bin\Debug\alunos_aprovados.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\bin\Debug\alunos_aprovados.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\bin\Debug\alunos_aprovados.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\obj\Debug\alunos_aprovados.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\obj\Debug\alunos_aprovados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\obj\Debug\alunos_aprovados.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\obj\Debug\alunos_aprovados.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\alunos_aprovados\obj\Debug\alunos_aprovados.pdb

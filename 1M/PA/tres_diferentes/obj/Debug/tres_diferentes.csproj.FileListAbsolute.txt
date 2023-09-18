@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\bin\Debug\tres_diferentes.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\bin\Debug\tres_diferentes.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\bin\Debug\tres_diferentes.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\obj\Debug\tres_diferentes.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\obj\Debug\tres_diferentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\obj\Debug\tres_diferentes.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\obj\Debug\tres_diferentes.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tres_diferentes\obj\Debug\tres_diferentes.pdb
