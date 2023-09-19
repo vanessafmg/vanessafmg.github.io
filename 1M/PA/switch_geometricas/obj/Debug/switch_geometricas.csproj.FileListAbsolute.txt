@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\bin\Debug\switch_geometricas.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\bin\Debug\switch_geometricas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\bin\Debug\switch_geometricas.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\obj\Debug\switch_geometricas.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\obj\Debug\switch_geometricas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\obj\Debug\switch_geometricas.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\obj\Debug\switch_geometricas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\switch_geometricas\obj\Debug\switch_geometricas.pdb

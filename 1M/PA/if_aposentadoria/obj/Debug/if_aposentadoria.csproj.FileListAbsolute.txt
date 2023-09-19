@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\bin\Debug\if_aposentadoria.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\bin\Debug\if_aposentadoria.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\bin\Debug\if_aposentadoria.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\obj\Debug\if_aposentadoria.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\obj\Debug\if_aposentadoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\obj\Debug\if_aposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\obj\Debug\if_aposentadoria.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\if_aposentadoria\obj\Debug\if_aposentadoria.pdb

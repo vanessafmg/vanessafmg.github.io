@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_aposentadoria", "if_aposentadoria.csproj", "{5954C0EA-5978-4F91-BD00-19D421B21405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5954C0EA-5978-4F91-BD00-19D421B21405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5954C0EA-5978-4F91-BD00-19D421B21405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5954C0EA-5978-4F91-BD00-19D421B21405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5954C0EA-5978-4F91-BD00-19D421B21405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DC0969-8759-4569-8C11-E099144B3903}
+	EndGlobalSection
+EndGlobal
