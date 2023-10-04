@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\bin\Debug\media_while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\bin\Debug\media_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\bin\Debug\media_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\obj\Debug\media_while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\obj\Debug\media_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\obj\Debug\media_while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\obj\Debug\media_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\media_while\obj\Debug\media_while.pdb

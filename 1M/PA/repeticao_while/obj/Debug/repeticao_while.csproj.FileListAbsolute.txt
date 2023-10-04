@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\bin\Debug\repeticao_while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\bin\Debug\repeticao_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\bin\Debug\repeticao_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\obj\Debug\repeticao_while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\obj\Debug\repeticao_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\obj\Debug\repeticao_while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\obj\Debug\repeticao_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\repeticao_while\obj\Debug\repeticao_while.pdb

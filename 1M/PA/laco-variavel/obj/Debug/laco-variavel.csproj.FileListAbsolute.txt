@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\bin\Debug\laco-variavel.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\bin\Debug\laco-variavel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\bin\Debug\laco-variavel.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\obj\Debug\laco-variavel.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\obj\Debug\laco-variavel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\obj\Debug\laco-variavel.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\obj\Debug\laco-variavel.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\laco-variavel\obj\Debug\laco-variavel.pdb

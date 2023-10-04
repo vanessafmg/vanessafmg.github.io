@@ -1,0 +1,16 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\bin\Debug\tabuada_while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\bin\Debug\tabuada_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\bin\Debug\tabuada_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\obj\Debug\tabuada_while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\obj\Debug\tabuada_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\obj\Debug\tabuada_while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\obj\Debug\tabuada_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while\obj\Debug\tabuada_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\bin\Debug\tabuada_while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\bin\Debug\tabuada_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\bin\Debug\tabuada_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\obj\Debug\tabuada_while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\obj\Debug\tabuada_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\obj\Debug\tabuada_while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\obj\Debug\tabuada_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tabuada_while-correcao\obj\Debug\tabuada_while.pdb

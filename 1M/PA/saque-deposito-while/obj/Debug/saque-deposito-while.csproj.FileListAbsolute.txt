@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\bin\Debug\saque-deposito-while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\bin\Debug\saque-deposito-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\bin\Debug\saque-deposito-while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\obj\Debug\saque-deposito-while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\obj\Debug\saque-deposito-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\obj\Debug\saque-deposito-while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\obj\Debug\saque-deposito-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\saque-deposito-while\obj\Debug\saque-deposito-while.pdb

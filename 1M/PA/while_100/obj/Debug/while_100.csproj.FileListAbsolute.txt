@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\bin\Debug\while_100.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\bin\Debug\while_100.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\bin\Debug\while_100.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\obj\Debug\while_100.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\obj\Debug\while_100.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\obj\Debug\while_100.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\obj\Debug\while_100.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\while_100\obj\Debug\while_100.pdb

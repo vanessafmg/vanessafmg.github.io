@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\bin\Debug\anuidade_while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\bin\Debug\anuidade_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\bin\Debug\anuidade_while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\obj\Debug\anuidade_while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\obj\Debug\anuidade_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\obj\Debug\anuidade_while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\obj\Debug\anuidade_while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\anuidade_while\obj\Debug\anuidade_while.pdb

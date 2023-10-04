@@ -1,0 +1,55 @@
+<html>
+	<head>
+	    <title>Formulários </title>
+		<meta charset=utf-8">
+	</head>
+	<body>
+	<center>
+	<form>
+		<fieldset>
+		<legend>Cadastro</legend>
+		<img src="perfil.png" width="120" height="120"><br><br><br>
+		Nome: <input required type="text" name="nome" size="15" placeholder="Digite seu nome">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sobrenome: <input type="text" name="sobrenome" size="15" placeholder="Digite seu sobrenome"><br><br>
+		E-mail: <input required type="text" name="email" size="50" placeholder="mail@exemplo.com.br"><br><br>
+		Cidade: <input required type="text" name="cidade" size="50" placeholder="Digite sua cidade"><br><br>
+		Endereço: <input required type="text" name="endereco" size="48" placeholder="Digite seu endereço"><br><br>
+		Telefone: <input required type="text" name="telefone" size="49" maxlength="11" placeholder="xxxxxxxxxxx"><br><br>	
+		Senha: <input required type="password" name="senha" size="51" maxlength="6" placeholder="Digite sua senha"><br><br>
+		Data de Nascimento:<br><input required type="date"><br><br>
+		Escolha uma opção:<br>
+		<input required type="radio" name="sexo" value="mas">Masculino<br>
+		<input required type="radio" name="sexo" value="fem">Feminino<br><br>		
+		</fieldset><br>		
+		
+		<fieldset>
+		<legend>Curiosidades</legend>		
+		Escolha as opções:<br>
+		<input type="checkbox" name="carro">Eu tenho um carro<br>
+		<input type="checkbox" name="bicicleta">Eu tenho uma bicicleta<br>
+		<input type="checkbox" name="moto">Eu tenho uma moto<br><br>
+				
+		Qual é o seu time:<br>
+		<select name="time">
+			<option value="" selected>
+			<option value="Corinthians">Corinthians
+			<option value="Sao Paulo">São Paulo
+			<option value="Santos">Santos
+			<option value="Palmeiras">Palmeiras
+			<option value="Ibis">Ibis
+		</select><br><br>
+		
+		Mensagem:<br>
+		<textarea cols="60" rows="10"></textarea><br><br>
+		</fieldset><br><br>
+		
+		<fieldset>
+		<legend>Mais</legend>
+		Enviar Foto:<br><input type="file"><br><br>
+		Cor favorita:<br><input type="color"><br><br>
+		Número da sorte:<br><input type="number"><br><br>
+		Range:<br><input type="range"><br><br>
+		</fieldset><br><br>
+		<input type="submit" value="ENVIAR">&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" value="LIMPAR">
+	</form>
+	</body>
+</html>

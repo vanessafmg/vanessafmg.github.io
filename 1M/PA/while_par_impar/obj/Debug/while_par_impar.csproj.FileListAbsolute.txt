@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\bin\Debug\while_par_impar.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\bin\Debug\while_par_impar.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\bin\Debug\while_par_impar.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\obj\Debug\while_par_impar.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\obj\Debug\while_par_impar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\obj\Debug\while_par_impar.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\obj\Debug\while_par_impar.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\while_par_impar\obj\Debug\while_par_impar.pdb
