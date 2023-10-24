@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for-contador", "for-contador.csproj", "{72DE2EFA-9527-4D48-976C-2924E2B02640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DE2EFA-9527-4D48-976C-2924E2B02640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DE2EFA-9527-4D48-976C-2924E2B02640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DE2EFA-9527-4D48-976C-2924E2B02640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DE2EFA-9527-4D48-976C-2924E2B02640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E941EC76-F5F4-4C09-ADF8-F271CD9BB77E}
+	EndGlobalSection
+EndGlobal

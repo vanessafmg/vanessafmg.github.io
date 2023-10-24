@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\bin\Debug\for-maior-menor.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\bin\Debug\for-maior-menor.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\bin\Debug\for-maior-menor.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\obj\Debug\for-maior-menor.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\obj\Debug\for-maior-menor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\obj\Debug\for-maior-menor.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\obj\Debug\for-maior-menor.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\for-maior-menor\obj\Debug\for-maior-menor.pdb

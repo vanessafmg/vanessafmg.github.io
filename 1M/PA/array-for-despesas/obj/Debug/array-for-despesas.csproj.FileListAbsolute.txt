@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\bin\Debug\array-for-despesas.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\bin\Debug\array-for-despesas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\bin\Debug\array-for-despesas.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\obj\Debug\array-for-despesas.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\obj\Debug\array-for-despesas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\obj\Debug\array-for-despesas.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\obj\Debug\array-for-despesas.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-despesas\obj\Debug\array-for-despesas.pdb

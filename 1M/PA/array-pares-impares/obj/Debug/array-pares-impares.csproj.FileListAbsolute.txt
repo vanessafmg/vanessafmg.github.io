@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\bin\Debug\array-pares-impares.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\bin\Debug\array-pares-impares.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\bin\Debug\array-pares-impares.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\obj\Debug\array-pares-impares.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\obj\Debug\array-pares-impares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\obj\Debug\array-pares-impares.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\obj\Debug\array-pares-impares.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-pares-impares\obj\Debug\array-pares-impares.pdb

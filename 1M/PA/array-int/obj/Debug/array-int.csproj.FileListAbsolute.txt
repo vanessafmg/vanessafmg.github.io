@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\bin\Debug\array-int.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\bin\Debug\array-int.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\bin\Debug\array-int.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\obj\Debug\array-int.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\obj\Debug\array-int.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\obj\Debug\array-int.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\obj\Debug\array-int.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-int\obj\Debug\array-int.pdb

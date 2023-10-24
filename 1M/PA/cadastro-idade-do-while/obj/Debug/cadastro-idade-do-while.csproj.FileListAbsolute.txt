@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\bin\Debug\cadastro-idade-do-while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\bin\Debug\cadastro-idade-do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\bin\Debug\cadastro-idade-do-while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\obj\Debug\cadastro-idade-do-while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\obj\Debug\cadastro-idade-do-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\obj\Debug\cadastro-idade-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\obj\Debug\cadastro-idade-do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\cadastro-idade-do-while\obj\Debug\cadastro-idade-do-while.pdb

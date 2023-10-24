@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\bin\Debug\array-for-mes.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\bin\Debug\array-for-mes.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\bin\Debug\array-for-mes.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\obj\Debug\array-for-mes.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\obj\Debug\array-for-mes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\obj\Debug\array-for-mes.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\obj\Debug\array-for-mes.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-mes\obj\Debug\array-for-mes.pdb

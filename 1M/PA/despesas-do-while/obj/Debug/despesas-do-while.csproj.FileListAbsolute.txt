@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\bin\Debug\despesas-do-while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\bin\Debug\despesas-do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\bin\Debug\despesas-do-while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\obj\Debug\despesas-do-while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\obj\Debug\despesas-do-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\obj\Debug\despesas-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\obj\Debug\despesas-do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\despesas-do-while\obj\Debug\despesas-do-while.pdb

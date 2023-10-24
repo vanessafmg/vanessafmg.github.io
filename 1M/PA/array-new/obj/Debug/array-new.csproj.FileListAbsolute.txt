@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\bin\Debug\array-new.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\bin\Debug\array-new.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\bin\Debug\array-new.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\obj\Debug\array-new.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\obj\Debug\array-new.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\obj\Debug\array-new.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\obj\Debug\array-new.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new\obj\Debug\array-new.pdb

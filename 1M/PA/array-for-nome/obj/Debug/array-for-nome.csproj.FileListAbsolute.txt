@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\bin\Debug\array-for-nome.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\bin\Debug\array-for-nome.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\bin\Debug\array-for-nome.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\obj\Debug\array-for-nome.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\obj\Debug\array-for-nome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\obj\Debug\array-for-nome.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\obj\Debug\array-for-nome.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-for-nome\obj\Debug\array-for-nome.pdb

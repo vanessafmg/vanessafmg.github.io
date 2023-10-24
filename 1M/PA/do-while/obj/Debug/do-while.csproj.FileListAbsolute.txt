@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\bin\Debug\do-while.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\bin\Debug\do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\bin\Debug\do-while.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\obj\Debug\do-while.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\obj\Debug\do-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\obj\Debug\do-while.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\obj\Debug\do-while.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\do-while\obj\Debug\do-while.pdb

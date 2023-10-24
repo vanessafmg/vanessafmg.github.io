@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\bin\Debug\array-meses.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\bin\Debug\array-meses.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\bin\Debug\array-meses.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\obj\Debug\array-meses.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\obj\Debug\array-meses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\obj\Debug\array-meses.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\obj\Debug\array-meses.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-meses\obj\Debug\array-meses.pdb

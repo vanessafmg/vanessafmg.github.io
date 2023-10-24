@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\bin\Debug\array-compras.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\bin\Debug\array-compras.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\bin\Debug\array-compras.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\obj\Debug\array-compras.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\obj\Debug\array-compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\obj\Debug\array-compras.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\obj\Debug\array-compras.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-compras\obj\Debug\array-compras.pdb

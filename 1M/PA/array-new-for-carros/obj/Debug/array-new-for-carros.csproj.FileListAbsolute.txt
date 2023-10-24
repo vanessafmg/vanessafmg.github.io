@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\bin\Debug\array-new-for-carros.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\bin\Debug\array-new-for-carros.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\bin\Debug\array-new-for-carros.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\obj\Debug\array-new-for-carros.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\obj\Debug\array-new-for-carros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\obj\Debug\array-new-for-carros.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\obj\Debug\array-new-for-carros.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\array-new-for-carros\obj\Debug\array-new-for-carros.pdb
