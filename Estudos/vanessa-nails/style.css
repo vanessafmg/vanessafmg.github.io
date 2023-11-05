@@ -1,0 +1,137 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+body {
+	background:black;
+	padding:5px;
+	font-family: Helvetica, sans-serif;
+}
+/*Reset - Cor de fundo da página e margem superior*/
+
+div#site{
+	background:#F1EEE3;
+	width:990px;
+	height:745px;
+	margin:auto;
+	padding:5px;
+}
+/*Cor de fundo, largura, altura, posição (centralizado) e margem de texto/div.*/
+
+div#topo{
+	background:#F1EEE3; 
+	height:120px;	
+}
+
+div#topo img{
+	width: 100%;
+  height: 100%;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+div#menu{
+	background:#F1EEE3;
+	height: 30px;
+	margin-top:5px;
+	display: flex;
+  justify-content: center;
+}
+
+div#menu button{
+	background: linear-gradient(120deg, #6B496D 20%,  #6b496db2 100%); 
+	margin: auto;
+	color: #fff;
+	width: 24%;
+	height: 100%;
+  border-radius: 8px;
+  border: 0;
+  font-size: 16px;
+  cursor: pointer;
+	transition: .2s;
+}
+
+div#menu button:hover{
+	background: linear-gradient(120deg, #a474a7 20%,  #ae79b1b2 100%); 
+}
+
+div#conteudo{
+	background:#F1EEE3;
+	width:750px;
+	height:500px;
+	margin-top:5px;
+	float:left;
+	margin-bottom:5px;
+	display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 5px; /* Espaço entre as divs */
+}
+
+div#manicure p,
+div#pedicure p,
+div#escalda p,
+div#reiki p {
+	background-color: #fff;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+	font-size: 15px;
+	text-align: justify;
+	width: 337px;
+	height: 213px;
+	transition: border .2s;
+	border: 1px solid #fff;
+}
+
+div#manicure p:hover,
+div#pedicure p:hover,
+div#escalda p:hover,
+div#reiki p:hover {
+	border-color: #93858D;
+}
+
+div#sidebar{
+	background:#F1EEE3;
+	width:235px;
+	height:500px;
+	margin-top:5px;
+	float:right;
+}
+
+div#sidebar img{
+	height: 120px;
+	width: 95%;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+	border-radius: 8px;
+	display: block;
+  margin-bottom: 6px;	
+}
+
+div#rodape{
+	background: linear-gradient(120deg, #93858D 0%,  rgba(174, 121, 177, 0.74)100%); 
+	height:80px;
+	clear:both;
+	border-radius: 8px;
+	padding-top: 5px;
+	display: flex; /* Adiciona display flex para alinhar as imagens */
+	justify-content: right;
+  align-items: center; /* Centraliza as imagens verticalmente */
+}
+
+div#rodape p{
+	color: #fff;
+	margin-right: 70px;
+}
+
+div#rodape img{
+	border-radius: 8px;	
+	height: 60px;
+	width: 60px;
+	object-fit: cover; /* Mantém a proporção da imagem */
+  margin: 0 5px; /* Adiciona um espaçamento entre as imagens */
+	margin-right: 15px;
+}

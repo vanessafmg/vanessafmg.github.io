@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif; /*se não encontrar a primeira fonte, usa a segunda*/
+}
+
+body{
+  background: #121212;
+  width: 100%;
+  min-height: 100vh; /*altura da página*/
+  display: flex;
+  justify-content: center;
+  align-items: center; /*centraliza vertical*/
+}
+
+.container{
+  background-color: #fafafa;
+  border-radius: 14px;
+  margin: 14px; /*margem em volta*/
+  max-width: 600px; /*largura máxima*/
+  width: 100%; /*100% da largura máxima*/
+  box-sizing: 0 3px 5px rgba(0,0,0,0.5); 
+  overflow: hidden; /*esconde o que passa do container*/
+}
+
+.header{
+  background: linear-gradient(120deg, #3acbf0 0%, #8bb0ff 100%); /*faz o gradiente, o deg é a rotação do gradiente*/
+  padding: 24px; /*espaço dentro em todos os lados*/
+  text-align: center;
+  color: #fff
+}
+
+.form{
+  padding: 18px; /*interno*/
+}
+
+.form-content{
+  margin-bottom: 8px;
+  padding-bottom: 18px; /*em cada elemento*/
+  position: relative;
+}
+
+.form-content label{
+  display: inline-block; 
+  margin-bottom: 4px;
+}
+
+.form-content input{
+  display: block; /*desce pra linha de baixo*/
+  width: 100%;
+  border-radius: 8px;
+  padding: 8px;
+  border: 2px solid #dfdfdf;
+}
+
+.form-content a{
+  position: absolute;
+  bottom: -8px; /*desce o elemento*/
+  left: 0;
+  visibility: hidden; /*esconde o elemento*/
+}
+
+.form button{
+  background: linear-gradient(120deg, #3acbf0 0%, #8bb0ff 100%); 
+  color: #fff;
+  width: 100%;
+  border-radius: 14px;
+  padding: 10px;
+  border: 0;
+  font-size: 16px;
+  cursor: pointer; /*mãozinha*/
+  margin-top: 14px;
+}
+
+.form-content.error input{
+  border-color: #ff3b25;
+}
+
+.form-content.error a{
+  color:#ff3b25;
+  visibility: visible;
+}
