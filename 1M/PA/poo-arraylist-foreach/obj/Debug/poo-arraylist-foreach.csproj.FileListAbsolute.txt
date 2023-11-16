@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\bin\Debug\poo-arraylist-foreach.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\bin\Debug\poo-arraylist-foreach.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\bin\Debug\poo-arraylist-foreach.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\obj\Debug\poo-arraylist-foreach.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\obj\Debug\poo-arraylist-foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\obj\Debug\poo-arraylist-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\obj\Debug\poo-arraylist-foreach.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-arraylist-foreach\obj\Debug\poo-arraylist-foreach.pdb

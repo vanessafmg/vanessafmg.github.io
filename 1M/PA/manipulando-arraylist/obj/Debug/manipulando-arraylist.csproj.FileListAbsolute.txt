@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\bin\Debug\manipulando-arraylist.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\bin\Debug\manipulando-arraylist.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\bin\Debug\manipulando-arraylist.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\obj\Debug\manipulando-arraylist.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\obj\Debug\manipulando-arraylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\obj\Debug\manipulando-arraylist.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\obj\Debug\manipulando-arraylist.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\manipulando-arraylist\obj\Debug\manipulando-arraylist.pdb

@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\bin\Debug\poo-media.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\bin\Debug\poo-media.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\bin\Debug\poo-media.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\obj\Debug\poo-media.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\obj\Debug\poo-media.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\obj\Debug\poo-media.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\obj\Debug\poo-media.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-media\obj\Debug\poo-media.pdb

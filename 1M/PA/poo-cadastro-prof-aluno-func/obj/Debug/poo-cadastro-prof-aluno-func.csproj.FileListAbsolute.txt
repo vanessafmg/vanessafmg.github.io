@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\bin\Debug\poo-cadastro-prof-aluno-func.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\bin\Debug\poo-cadastro-prof-aluno-func.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\bin\Debug\poo-cadastro-prof-aluno-func.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\obj\Debug\poo-cadastro-prof-aluno-func.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\obj\Debug\poo-cadastro-prof-aluno-func.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\obj\Debug\poo-cadastro-prof-aluno-func.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\obj\Debug\poo-cadastro-prof-aluno-func.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-cadastro-prof-aluno-func\obj\Debug\poo-cadastro-prof-aluno-func.pdb

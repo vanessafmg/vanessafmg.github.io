@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\bin\Debug\poo-intro.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\bin\Debug\poo-intro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\bin\Debug\poo-intro.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\obj\Debug\poo-intro.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\obj\Debug\poo-intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\obj\Debug\poo-intro.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\obj\Debug\poo-intro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\poo-intro\obj\Debug\poo-intro.pdb
