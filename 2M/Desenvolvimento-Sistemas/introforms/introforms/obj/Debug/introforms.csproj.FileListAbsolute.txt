@@ -1,0 +1,10 @@
+D:\Vanessa\DS\introforms\introforms\bin\Debug\introforms.exe.config
+D:\Vanessa\DS\introforms\introforms\bin\Debug\introforms.exe
+D:\Vanessa\DS\introforms\introforms\bin\Debug\introforms.pdb
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.csproj.AssemblyReference.cache
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.Form1.resources
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.Properties.Resources.resources
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.csproj.GenerateResource.cache
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.csproj.CoreCompileInputs.cache
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.exe
+D:\Vanessa\DS\introforms\introforms\obj\Debug\introforms.pdb

@@ -1,0 +1,60 @@
+.nav-item{
+  padding-left:35px;
+}
+
+
+.videos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px; /* Espaçamento entre os vídeos, se desejar */
+  height: 250px;
+  
+}
+
+.object-fit-contain {
+  height: 100%; /* Altura do vídeo igual à altura do contêiner */
+  width: 250px; /* Largura do vídeo */
+  object-fit: contain; /* Manter a proporção do vídeo dentro das dimensões especificadas */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+
+h1 {
+  font-size: 1em; /* ou qualquer tamanho desejado */
+}
+
+p {
+  font-size: 1em; /* ou qualquer tamanho desejado */
+  text-align: center;
+}
+
+form.form-horizontal{
+  margin: 0 auto; /* Isso centralizará horizontalmente o container */
+  background-color: #fafafa;
+  border-radius: 14px;
+  max-width: 600px; /*largura máxima*/  
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  padding-left:55px;
+}
+
+.form-group label {
+  display: inline-block; /* Permite definir largura e centralizar */
+  padding-bottom: 2px;
+
+}
+
+.form-group .col-md-4 {
+  display: inline-block; /* Permite definir largura e centralizar */
+  width:90%;
+  padding-bottom: 3px;
+}
+
+legend {
+  text-align: center;
+  padding-right: 55px;
+}
+
+.form-group .col-md-8 button {
+  margin-bottom: 20px;
+  
+}

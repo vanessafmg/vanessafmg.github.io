@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\bin\Debug\checkbox.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\bin\Debug\checkbox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\bin\Debug\checkbox.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\checkbox\obj\Debug\checkbox.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\bin\Debug\232017_tecnomarket_dgv.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\bin\Debug\232017_tecnomarket_dgv.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\bin\Debug\232017_tecnomarket_dgv.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\_232017_tecnomarket_dgv.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\_232017_tecnomarket_dgv.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_tecnomarket_dgv\obj\Debug\232017_tecnomarket_dgv.pdb

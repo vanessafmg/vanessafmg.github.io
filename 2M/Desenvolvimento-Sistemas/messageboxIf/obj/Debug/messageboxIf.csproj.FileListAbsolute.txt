@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\bin\Debug\messageboxIf.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\bin\Debug\messageboxIf.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\bin\Debug\messageboxIf.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\messageboxIf\obj\Debug\messageboxIf.pdb

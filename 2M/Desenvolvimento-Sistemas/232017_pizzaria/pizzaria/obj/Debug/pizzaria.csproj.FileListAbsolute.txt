@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\bin\Debug\pizzaria.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\bin\Debug\pizzaria.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\bin\Debug\pizzaria.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\pizzaria\obj\Debug\pizzaria.pdb

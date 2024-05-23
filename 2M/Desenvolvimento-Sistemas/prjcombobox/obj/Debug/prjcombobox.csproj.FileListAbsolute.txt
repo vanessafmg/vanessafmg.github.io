@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\bin\Debug\prjcombobox.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\bin\Debug\prjcombobox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\bin\Debug\prjcombobox.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\prjcombobox\obj\Debug\prjcombobox.pdb

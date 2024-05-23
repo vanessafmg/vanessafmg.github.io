@@ -1,0 +1,10 @@
+D:\Vanessa\DS\somarvalores\somarvalores\bin\Debug\somarvalores.exe.config
+D:\Vanessa\DS\somarvalores\somarvalores\bin\Debug\somarvalores.exe
+D:\Vanessa\DS\somarvalores\somarvalores\bin\Debug\somarvalores.pdb
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.csproj.AssemblyReference.cache
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.Form1.resources
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.Properties.Resources.resources
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.csproj.GenerateResource.cache
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.csproj.CoreCompileInputs.cache
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.exe
+D:\Vanessa\DS\somarvalores\somarvalores\obj\Debug\somarvalores.pdb

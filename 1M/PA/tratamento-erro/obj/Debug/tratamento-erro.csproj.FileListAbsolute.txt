@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\bin\Debug\tratamento-erro.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\bin\Debug\tratamento-erro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\bin\Debug\tratamento-erro.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\obj\Debug\tratamento-erro.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\obj\Debug\tratamento-erro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\obj\Debug\tratamento-erro.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\obj\Debug\tratamento-erro.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\tratamento-erro\obj\Debug\tratamento-erro.pdb

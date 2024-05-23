@@ -1,0 +1,11 @@
+div#conteudo{
+  font-family: Helvetica, sans-serif;
+	background:#f1eee3;
+	width:450px;
+	height:100px;
+	justify-content: center;
+	border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  text-align: center;
+  padding-top: 33px;
+  }

@@ -1,0 +1,10 @@
+D:\Vanessa\DS\media\media\bin\Debug\media.exe.config
+D:\Vanessa\DS\media\media\bin\Debug\media.exe
+D:\Vanessa\DS\media\media\bin\Debug\media.pdb
+D:\Vanessa\DS\media\media\obj\Debug\media.csproj.AssemblyReference.cache
+D:\Vanessa\DS\media\media\obj\Debug\media.Form1.resources
+D:\Vanessa\DS\media\media\obj\Debug\media.Properties.Resources.resources
+D:\Vanessa\DS\media\media\obj\Debug\media.csproj.GenerateResource.cache
+D:\Vanessa\DS\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+D:\Vanessa\DS\media\media\obj\Debug\media.exe
+D:\Vanessa\DS\media\media\obj\Debug\media.pdb

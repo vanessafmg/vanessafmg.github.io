@@ -1,0 +1,10 @@
+D:\Vanessa\DS\intro\intro\bin\Debug\intro.exe.config
+D:\Vanessa\DS\intro\intro\bin\Debug\intro.exe
+D:\Vanessa\DS\intro\intro\bin\Debug\intro.pdb
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.csproj.AssemblyReference.cache
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.Properties.Resources.resources
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.csproj.GenerateResource.cache
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.csproj.CoreCompileInputs.cache
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.exe
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.pdb
+D:\Vanessa\DS\intro\intro\obj\Debug\intro.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\bin\Debug\232017.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\bin\Debug\232017.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\bin\Debug\232017.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\obj\Debug\232017.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\obj\Debug\232017.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\obj\Debug\232017.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\obj\Debug\232017.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\232017\obj\Debug\232017.pdb

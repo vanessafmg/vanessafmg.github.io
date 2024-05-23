@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\bin\Debug\232017-prjmessagebox.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\bin\Debug\232017-prjmessagebox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\bin\Debug\232017-prjmessagebox.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\_232017_prjmessagebox.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\_232017_prjmessagebox.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017-prjmessagebox\obj\Debug\232017-prjmessagebox.pdb

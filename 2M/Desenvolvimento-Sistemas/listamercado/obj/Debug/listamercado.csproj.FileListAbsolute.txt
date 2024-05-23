@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\bin\Debug\listamercado.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\bin\Debug\listamercado.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\bin\Debug\listamercado.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\listamercado\obj\Debug\listamercado.pdb

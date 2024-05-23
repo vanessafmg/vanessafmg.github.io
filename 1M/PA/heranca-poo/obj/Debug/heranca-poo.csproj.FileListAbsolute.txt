@@ -1,0 +1,8 @@
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\bin\Debug\heranca-poo.exe.config
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\bin\Debug\heranca-poo.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\bin\Debug\heranca-poo.pdb
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\obj\Debug\heranca-poo.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\obj\Debug\heranca-poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\obj\Debug\heranca-poo.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\obj\Debug\heranca-poo.exe
+C:\Users\Vanessa\Documents\DS\1M\PA\heranca-poo\obj\Debug\heranca-poo.pdb

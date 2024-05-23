@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\bin\Debug\232017_avaliativa.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\bin\Debug\232017_avaliativa.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\bin\Debug\232017_avaliativa.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\_232017_avaliativa.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\_232017_avaliativa.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\232017_avaliativa\obj\Debug\232017_avaliativa.pdb

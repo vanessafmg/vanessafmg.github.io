@@ -1,0 +1,11 @@
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\bin\Debug\opmat-combobox.exe.config
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\bin\Debug\opmat-combobox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\bin\Debug\opmat-combobox.pdb
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.csproj.AssemblyReference.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat_combobox.Form1.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat_combobox.Properties.Resources.resources
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.csproj.GenerateResource.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.exe
+C:\Users\Vanessa\Documents\DS\2M\DS\opmat-combobox\obj\Debug\opmat-combobox.pdb

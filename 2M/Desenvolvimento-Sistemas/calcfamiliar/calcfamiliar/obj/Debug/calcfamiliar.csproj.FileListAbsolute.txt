@@ -1,0 +1,10 @@
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\bin\Debug\calcfamiliar.exe.config
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\bin\Debug\calcfamiliar.exe
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\bin\Debug\calcfamiliar.pdb
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.csproj.AssemblyReference.cache
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.Form1.resources
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.Properties.Resources.resources
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.csproj.GenerateResource.cache
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.csproj.CoreCompileInputs.cache
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.exe
+D:\Vanessa\DS\calcfamiliar\calcfamiliar\obj\Debug\calcfamiliar.pdb
